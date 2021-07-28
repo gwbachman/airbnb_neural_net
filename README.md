@@ -1,1 +1,2 @@
-# airbnb_neural_net
+# Predicting AirBnb prices with neural networks.
+This was one of my earlier projects. My group and I undertook to create a neural network that could accurately predict the price of an AirBnB property. At the time we completed this project, there was not yet any tooling in the AirBnB app or website that helped property owners accurately assess and price their properties. This project was intended as a proof of concept in how to normalize property pricings across the platform. 
